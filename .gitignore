@@ -2,4 +2,5 @@
 /test/
 /model/
 !/model/swinv2_tiny_window16_256/swinv2_tiny_window16_256_37.pth
+!/model/swinv2_tiny_window16_256/best_model.txt
 /imsi.py/
